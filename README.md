@@ -34,17 +34,17 @@ My current focus is on **C#, Python, and application logic**, with interest in b
 ## Languages: 
 
 <p align="center">
-  <img src="./assets/c.svg" width="60"/>
-  <img src="./assets/python.svg" width="60"/>
-  <img src="./assets/csharp.svg" width="60"/>
+  <img src="./assets/C.svg" width="60"/>
+  <img src="./assets/Python-Dark.svg" width="60"/>
+  <img src="./assets/CS.svg" width="60"/>
 </p>
 
 ## Tools & Platforms: 
 <p align= "center">
-<img src="./assets/dotnet.svg" width="50"/>
-  <img src="./assets/github.svg" width="50"/>
-  <img src="./assets/visualstudio.svg" width="50"/>
-  <img src="./assets/vscode.svg" width="50"/>
+<img src="./assets/DotNet.svg" width="50"/>
+  <img src="./assets/Github-Dark.svg" width="50"/>
+  <img src="./assets/VisualStudio-Dark.svg" width="50"/>
+  <img src="./assets/Vscode-Dark.svg" width="50"/>
 </p>
 
 ---
