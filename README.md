@@ -22,9 +22,6 @@ My current focus is on **C#, Python, and application logic**, with interest in b
   </a>
   
 </p>
---- 
-
-
 
 ---
 
